@@ -1,0 +1,7 @@
+{
+  "name": "falacoop",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
